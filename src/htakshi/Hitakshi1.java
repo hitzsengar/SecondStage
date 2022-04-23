@@ -6,6 +6,7 @@ public class Hitakshi1 {
 		
 		System.out.println("i am hitakshi from my end");
 		System.out.println("i am hitz from second end");
+		System.out.println();
 	}
 
 }
